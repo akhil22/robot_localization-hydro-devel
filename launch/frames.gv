@@ -1,0 +1,4 @@
+digraph G {
+"base_footprint" -> "base_link"[label="Broadcaster: /ekf_localization\nAverage rate: 39.710 Hz\nMost recent transform: 1438831683.937 \nBuffer length: 5.037 sec\n"];
+"base_link" -> "imu"[label="Broadcaster: /imu_baseframe\nAverage rate: 1.324 Hz\nMost recent transform: 1438831683.879 \nBuffer length: 3.022 sec\n"];
+}
